@@ -1,2 +1,0 @@
-getgenv().ChestConfig = {
-    AutoHop = true,

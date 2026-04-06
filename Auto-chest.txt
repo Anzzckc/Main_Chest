@@ -1,0 +1,4 @@
+getgenv().ChestConfig = {
+    AutoHop = true,
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Anzzckc/AutoFarmChest/refs/heads/main/AutoChest.lua"))()
