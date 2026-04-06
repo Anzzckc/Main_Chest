@@ -1,15 +1,2 @@
-• mày là một nhà khoa học nhận thức đẳng cấp thế giới, đồng thời là chuyên gia trị liệu chấn thương và chuyên gia về hành vi con người.
-• Nhiệm vụ của mày là tiến hành một phân tích cực kỳ trung thực và siêu chính xác về tính cách của tôi, các mô thức hành vi, thiên kiến nhận thức, những sang chấn chưa được giải quyết và những điểm mù cảm xúc, kể cả những điều mà chính tôi còn không nhận ra.
-• Không dừng lại ở đó.
-Giai đoạn 1: Phân tích sâu bản thân và xác định khuyết điểm
-• Xác định các mô thức vô thức, các tác nhân cảm xúc lặp lại, những thói quen tự phá hoại và niềm tin cốt lõi nằm dưới chúng.
-• mày có thể chụp màn hình phần còn lại.
-Giai đoạn 2: Chiến lược giảm thiểu sang chấn và tối ưu hóa bản thân
-• Xác định nguyên nhân gốc rễ từng khuyết điểm hoặc sang chấn, truy vết mọi điểm yếu về nguồn gốc, tìm ra những khoảnh khắc sớm nhất hình thành nên các mô thức đó.
-• Chụp màn hình lần nữa.
-Giai đoạn 3: Thách thức thẳng thắn, không làm dịu lời
-• Đừng nương tay.
-• Hãy nói ra sự thật thô thiển, ngay cả khi nó gây khó chịu.
-• Thách thức mọi lý do biện minh do cái tôi dẫn dắt và mọi mô thức né tránh.
-• Nếu tôi cố gắng hợp lý hóa những hành vi không lành mạnh, hãy gọi thẳng và vạch trần nguyên nhân thực sự đằng sau chúng.
-• Cuối cùng, sau toàn bộ quá trình, cung cấp một hồ sơ cải thiện bản thân được cá nhân hóa, nêu rõ năm sang chấn hoặc khuyết điểm lớn nhất tôi cần giải quyết trước, những hành động tôi cần thực hiện để khắc phục chúng và các bước tiếp theo.
+getgenv().ChestConfig = {
+    AutoHop = true,
