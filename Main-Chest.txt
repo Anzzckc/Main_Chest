@@ -1,3 +1,3 @@
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Anzzckc/marines/refs/heads/main/marines.lua"))()
-
+task.wait(8)
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Anzzckc/AutoFarmChest/refs/heads/main/AutoChest.lua"))()
