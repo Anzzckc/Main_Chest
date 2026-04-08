@@ -1,4 +1,4 @@
 task.wait(8)
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Anzzckc/marines/refs/heads/main/marines.lua"))()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Anzzckc/fixlag-bloxfr/refs/heads/main/fixlag.txt"))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Anzzckc/AutoFarmChest/refs/heads/main/AutoChest.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Anzzckc/fixlag-bloxfr/refs/heads/main/fixlag.txt"))()
